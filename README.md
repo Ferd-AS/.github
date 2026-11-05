@@ -9,3 +9,12 @@
 <h3 align="center">.github</h3>
 
 Org-level defaults for the Ferd-AS organization. [`profile/README.md`](profile/README.md) is the public profile shown at [github.com/Ferd-AS](https://github.com/Ferd-AS). Org-wide community health files (issue templates, default workflows) live here too as they are added.
+
+## 👥 Ownership
+
+| | |
+|---|---|
+| **Team** | Ferd Digital |
+| **Maintainer** | Chris Conradi ([chc@ferd.no](mailto:chc@ferd.no)) |
+| **Teams channel** | — |
+| **Runbook** | — |

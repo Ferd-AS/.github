@@ -1,0 +1,7 @@
+# Ferd-AS/.github is the org profile + community-health repo, not an app.
+hygiene.repo-name — GitHub-magic name; the org naming ruleset excludes .github and .github-private
+readme.quickstart — nothing to install or run; profile/README.md renders on github.com/Ferd-AS
+scripts — no app to start, test or report on
+project-files — org profile content, no app to specify or run
+code.happy-path-test — Markdown and SVG only, no code to test
+ci.workflows — Markdown and SVG only, nothing to typecheck, lint or test
